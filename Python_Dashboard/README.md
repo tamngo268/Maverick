@@ -7,4 +7,4 @@
 <p>A full tutorial for how to run the code and a brief description of its capabilities are provided below.</p>
 <br>
 <p>1. Dashboard Tab 1</p>
-<img title="Dashboard Tab 1" src="/images/python_dashboard_tab1.png">
+<img title="Dashboard Tab 1" src="images/python_dashboard_tab1.png">
