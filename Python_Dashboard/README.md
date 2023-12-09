@@ -1,7 +1,9 @@
 <p>Overview</p>
 <p>This directory contains one single file (faa_nwsd_python_dashboard.py), which is a script that was written to generate 
   a dashboard via Python with many different components to provide the partner with enhanced visualizations to better 
-  represent the data in the National Wildlife Strike Database.</p>
+  represent the data in the National Wildlife Strike Database. The data is too large to save to Github so the user will be required to 
+  download the data from the NWSD site (accessible by clicking the FAA logo on the dashboard to hyperlink directly to the site). The   
+  code, as written, simply looks for a pickle file containing the data downloaded from the site.</p>
 <br>
 <p>Dashboard Components</p>
 <p>A breakdown for each dashboard componenet and a brief description of its capabilities are provided below.</p>
