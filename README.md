@@ -1,8 +1,9 @@
 <h1 align="center"><strong>Reducing Airport Wildlife Strike Using Advanced Data Analysis</h1>
-<h2 align="center">Overview</h2>
-<p>Team Maverick</p>
-<p>Team Members: Anish Shrestha, Deepti Khandagale, Mitch Boehm, Spencer Liao, Tam Ngo</p>
-<p>Partner: Federal Aviation Administration (FAA) Airport Technology Research and Development (ATR) Branch</p>
+<p align="center">Team Maverick</p>
+<p align="center">Team Members: Anish Shrestha, Deepti Khandagale, Mitch Boehm, Spencer Liao, Tam Ngo</p>
+<p align="center">Partner: Federal Aviation Administration (FAA) Airport Technology Research and Development (ATR) Branch</p>
+<br>
+<p>Abstract</p>
 <p>Aircraft collisions caused by birds and other wildlife have been an ongoing safety concern for the aviation industry. The United States Federal Aviation Administration (FAA) National Wildlife Strike Database (NWSD) includes about 284,000 reports of wildlife strikes from 1990 to 2023. The database contains 100 variables ranging from incident date and time, airport information, aircraft information, environment conditions, impact and damage information, wildlife information, and reporter information. The NWSD is used by airports, researchers, and city planners to better understand the economic cost of wildlife strikes, the scale of safety issues, and the nature of the problems. To further promote usage and provide valuable insights, the project partner has commissioned the project team to analyze the NWSD data, integrate it with other data sources, and create visualizations that allow users to conduct on-demand preliminary analyses from the user interface. The project team conducted exploratory and detailed data analysis of the NWSD along with FAA Operations Network flight count data and Visual Crossing weather data. We discovered valuable insights such as the “en route” phase of flight resulted in the most injuries and fatalities, unknown small and medium birds were involved in most incidents, business aircraft incurred the most damage costs, and more. The team delivered prototype dashboards containing visualizations that allow users to explore using filters and drill-down features and quickly identify trends and patterns.</p>
 <br><br>
 <p>This repository is filled with several different dashboards and features the team created to best represent the given data from the National Wildlife Strike Database with description of each below:</p>
