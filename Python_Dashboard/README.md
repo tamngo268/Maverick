@@ -9,15 +9,17 @@
 <p>1. Dashboard Tab 1</p>
 <img title="Dashboard Tab 1" src="images/python_dashboard_tab1.png">
 <p>The first tab has 3 available filter options. The user can select a particular FAA region to filter the data within as well as filter the data within a particular time frame of years using the slider. The user can also select whether to show all airports when a state is selected or only the top 10 airports by incident count (more on this in section 1a). The FAA regions are defined below: </p>
-<p>* Alaskan: AK </p>
-<p>* Central: IA, KS, MO, NE </p>
-<p>* Eastern: DC, DE, MD, NJ, NY, PA, VA, WV </p>
-<p>* Great Lakes: IL, IN, MI, MN, ND, OH, SD, WI </p>
-<p>* New England: CT, MA, ME, NH, RI, VT </p>
-<p>* Northwest Mountain: CO, ID, MT, OR, UT, WA, WY </p>
-<p>* Southern: AL, FL, GA, KY, MS, NC, PR, SC, TN, VI </p>
-<p>* Southwest: AR, LA, NM, OK, TX </p>
-<p>* Western-Pacific: AZ, CA, HI, NV </p>
+<ul>
+    <li>Alaskan: AK</li>
+    <li>Central: IA, KS, MO, NE</li>
+    <li>Eastern: DC, DE, MD, NJ, NY, PA, VA, WV </li>
+    <li>Great Lakes: IL, IN, MI, MN, ND, OH, SD, WI </li>
+    <li>New England: CT, MA, ME, NH, RI, VT </li>
+    <li>Northwest Mountain: CO, ID, MT, OR, UT, WA, WY </li>
+    <li>Southern: AL, FL, GA, KY, MS, NC, PR, SC, TN, VI </li>
+    <li>Southwest: AR, LA, NM, OK, TX </li>
+    <li>Western-Pacific: AZ, CA, HI, NV </p></li>
+</ul>
 <br>
 <p>1a. Choropleth Plot</p>
 <img title="Choropleth Plot" src="images/choropleth_plot.png">
