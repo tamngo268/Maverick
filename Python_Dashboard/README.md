@@ -22,4 +22,6 @@
 </ul>
 <br>
 <p>1a. Choropleth Plot</p>
-<img title="Choropleth Plot" src="images/choropleth_plot.png">
+<img title="Choropleth Plot Entire US" src="images/choropleth_plot_entire_us.png">
+<p>The choropleth plot will show the number of incidents by state for the filtered time frame and FAA region. If the user selects the default "Entire US" option, all incidents across the United States will be plotted as shown in the above image. However, if the user selects a specific FAA region, the map will automatically update and show only the incidents accordingly for the filtered state(s).</p>
+<img title="Choropleth Plot Northwest Mountain Region" src="images/choropleth_plot_northwest_mountain.png">
