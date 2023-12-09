@@ -9,6 +9,9 @@ This folder contains the python script for joining the weather data and wildlife
 
 **3. Visualization.md**    
 For visualization, the tableau file is too big to upload and hence I have included the link for the Tableau Public website. Feel free to check out.
+
+[FAA Exploratory Analysis on Wildlife Strike Databse](https://public.tableau.com/app/profile/deepti.vijay.khandagale/viz/ExploratoryAnalysisonWildlifeAircraftStrike/Dashboard1)    
+<img src="https://github.com/tamngo268/Maverick/blob/main/Data_for_visualization/Dashboard%201.png">
      
 
 
